@@ -38,7 +38,7 @@ void VuBrowser::on_helpButton_clicked()
 {
     QMessageBox* helpBox = new QMessageBox;
     QString message = "Xin chao\n";
-    message += "Day la trinh duyet cua VuNguyenCoder \n";
+    message += "Day la trinh duyet cua Thai Hieu \n";
     message += "de xem JAV\n";
     helpBox->setText(message);
     helpBox->exec();
